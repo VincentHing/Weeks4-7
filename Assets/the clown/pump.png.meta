@@ -1,0 +1,1417 @@
+fileFormatVersion: 2
+guid: 74630c06daf43084698847a7f80e7ded
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8363546646716079569
+    second: pump_0
+  - first:
+      213: 6791106561229358567
+    second: pump_1
+  - first:
+      213: -271663231276840364
+    second: pump_2
+  - first:
+      213: 8850199170543613908
+    second: pump_3
+  - first:
+      213: -8623857156127769596
+    second: pump_4
+  - first:
+      213: 5133359766145362846
+    second: pump_5
+  - first:
+      213: 4087668993525966513
+    second: pump_6
+  - first:
+      213: 9042792535848973977
+    second: pump_7
+  - first:
+      213: 9109674558028928466
+    second: pump_8
+  - first:
+      213: 7333687582615748159
+    second: pump_9
+  - first:
+      213: -4433092488600143682
+    second: pump_10
+  - first:
+      213: 5664638367950900288
+    second: pump_11
+  - first:
+      213: -7351269098382354025
+    second: pump_12
+  - first:
+      213: 1717185890116239795
+    second: pump_13
+  - first:
+      213: 7526598011194701010
+    second: pump_14
+  - first:
+      213: -2388163411509609394
+    second: pump_15
+  - first:
+      213: -7591042123228032440
+    second: pump_16
+  - first:
+      213: -1138607430648983049
+    second: pump_17
+  - first:
+      213: 5170176756578379061
+    second: pump_18
+  - first:
+      213: 4995795958407441753
+    second: pump_19
+  - first:
+      213: -2609639780399365837
+    second: pump_20
+  - first:
+      213: 8050533617228522807
+    second: pump_21
+  - first:
+      213: -4761838084693739936
+    second: pump_22
+  - first:
+      213: -808010705467855794
+    second: pump_23
+  - first:
+      213: -4997546258611732944
+    second: pump_24
+  - first:
+      213: -7078662876236671254
+    second: pump_25
+  - first:
+      213: -2114531685364691950
+    second: pump_26
+  - first:
+      213: -8313827602408725579
+    second: pump_27
+  - first:
+      213: 8397692445816200689
+    second: pump_28
+  - first:
+      213: -7387209198515574612
+    second: pump_29
+  - first:
+      213: 9015365907648143512
+    second: pump_30
+  - first:
+      213: -4712882688341730434
+    second: pump_31
+  - first:
+      213: -2332656591329543647
+    second: pump_32
+  - first:
+      213: 3520001604514898821
+    second: pump_33
+  - first:
+      213: 4453393297361441648
+    second: pump_34
+  - first:
+      213: 4606371170150299172
+    second: pump_35
+  - first:
+      213: -7483841279548882069
+    second: pump_36
+  - first:
+      213: -1417783264465570019
+    second: pump_37
+  - first:
+      213: 1617541703164852859
+    second: pump_38
+  - first:
+      213: 432550843898342261
+    second: pump_39
+  - first:
+      213: -2061170283228219386
+    second: pump_40
+  - first:
+      213: -3029568634399928435
+    second: pump_41
+  - first:
+      213: 4619405051789170573
+    second: pump_42
+  - first:
+      213: -1352542006696161298
+    second: pump_43
+  - first:
+      213: -7367941749896872485
+    second: pump_44
+  - first:
+      213: 933034053930972813
+    second: pump_45
+  - first:
+      213: 7185660202490166082
+    second: pump_46
+  - first:
+      213: 9026930628539063961
+    second: pump_47
+  - first:
+      213: -5489628511610430887
+    second: pump_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pump_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1546
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dddbebfc59411470800000000000000
+      internalID: 8363546646716079569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_1
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 12
+        width: 523
+        height: 1781
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e586e5cf6bde3e50800000000000000
+      internalID: 6791106561229358567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_2
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1665
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a85310bbbda3cf0800000000000000
+      internalID: -271663231276840364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_3
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1690
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d775b7514932da70800000000000000
+      internalID: 8850199170543613908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_4
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1608
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c3b4f8b97e15880800000000000000
+      internalID: -8623857156127769596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_5
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1645
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b6065728b5d3740800000000000000
+      internalID: 5133359766145362846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_6
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1547
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b66e7eca415ab830800000000000000
+      internalID: 4087668993525966513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_7
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1578
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996f4dc86e37e7d70800000000000000
+      internalID: 9042792535848973977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1462
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d55ab2deb01c6e70800000000000000
+      internalID: 9109674558028928466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_9
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1462
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e3187300e76c560800000000000000
+      internalID: 7333687582615748159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_10
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1214
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb839808edd7a72c0800000000000000
+      internalID: -4433092488600143682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_11
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1386
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c03c64596dc9e40800000000000000
+      internalID: 5664638367950900288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1411
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7991d9624bb0bf990800000000000000
+      internalID: -7351269098382354025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_13
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1328
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b101b1187ba4d710800000000000000
+      internalID: 1717185890116239795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_14
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1366
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4fb687309d37860800000000000000
+      internalID: 7526598011194701010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_15
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1268
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c726fb70a8bded0800000000000000
+      internalID: -2388163411509609394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1299
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84257f1786337a690800000000000000
+      internalID: -7591042123228032440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_17
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 945
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f11c8d039ad230f0800000000000000
+      internalID: -1138607430648983049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_18
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1064
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535e5d90e5820c740800000000000000
+      internalID: 5170176756578379061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_19
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1089
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d253f84f1a45540800000000000000
+      internalID: 4995795958407441753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_20
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1007
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33141993272b8cbd0800000000000000
+      internalID: -2609639780399365837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_21
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1044
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7352f3bdbad39bf60800000000000000
+      internalID: 8050533617228522807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_22
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 946
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06637e3cd7d8aedb0800000000000000
+      internalID: -4761838084693739936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_23
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 977
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c20ed5b8e59c4f0800000000000000
+      internalID: -808010705467855794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_24
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 861
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e7ddae72625aab0800000000000000
+      internalID: -4997546258611732944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_25
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 861
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae61b215e9983cd90800000000000000
+      internalID: -7078662876236671254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_26
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 613
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c878ba2aca7a2e0800000000000000
+      internalID: -2114531685364691950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_27
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 785
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3279a18d95f9c80800000000000000
+      internalID: -8313827602408725579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_28
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 810
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd1bdd59c89a8470800000000000000
+      internalID: 8397692445816200689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_29
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 727
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca82bf08f5c5b7990800000000000000
+      internalID: -7387209198515574612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_30
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 765
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890e88d07830d1d70800000000000000
+      internalID: 9015365907648143512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_31
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 667
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b9d453a2a789eb0800000000000000
+      internalID: -4712882688341730434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_32
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 698
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a34da603db0afd0800000000000000
+      internalID: -2332656591329543647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_33
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 344
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5836aed3fce89d030800000000000000
+      internalID: 3520001604514898821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_34
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 463
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073955edb91adcd30800000000000000
+      internalID: 4453393297361441648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_35
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 488
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426b8647c2e1def30800000000000000
+      internalID: 4606371170150299172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_36
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 406
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b638511e10e042890800000000000000
+      internalID: -7483841279548882069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_37
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 443
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d173909f1a5035ce0800000000000000
+      internalID: -1417783264465570019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_38
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 345
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a7582eb99a27610800000000000000
+      internalID: 1617541703164852859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_39
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 376
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b2bd563bab00600800000000000000
+      internalID: 432550843898342261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_40
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 260
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60837964c804563e0800000000000000
+      internalID: -2061170283228219386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_41
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 260
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f4debd06fc4f5d0800000000000000
+      internalID: -3029568634399928435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_42
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 12
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87d9818b6c6b1040800000000000000
+      internalID: 4619405051789170573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_43
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 184
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefc413063eca3de0800000000000000
+      internalID: -1352542006696161298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_44
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 209
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd70a7f300dfb990800000000000000
+      internalID: -7367941749896872485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_45
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 126
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86f5e3578dc2fc00800000000000000
+      internalID: 933034053930972813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_46
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 164
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b761602e798b360800000000000000
+      internalID: 7185660202490166082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_47
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 66
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e1a267499164d70800000000000000
+      internalID: 9026930628539063961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pump_48
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 97
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a9a9834fbe0d3b0800000000000000
+      internalID: -5489628511610430887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pump_0: 8363546646716079569
+      pump_1: 6791106561229358567
+      pump_10: -4433092488600143682
+      pump_11: 5664638367950900288
+      pump_12: -7351269098382354025
+      pump_13: 1717185890116239795
+      pump_14: 7526598011194701010
+      pump_15: -2388163411509609394
+      pump_16: -7591042123228032440
+      pump_17: -1138607430648983049
+      pump_18: 5170176756578379061
+      pump_19: 4995795958407441753
+      pump_2: -271663231276840364
+      pump_20: -2609639780399365837
+      pump_21: 8050533617228522807
+      pump_22: -4761838084693739936
+      pump_23: -808010705467855794
+      pump_24: -4997546258611732944
+      pump_25: -7078662876236671254
+      pump_26: -2114531685364691950
+      pump_27: -8313827602408725579
+      pump_28: 8397692445816200689
+      pump_29: -7387209198515574612
+      pump_3: 8850199170543613908
+      pump_30: 9015365907648143512
+      pump_31: -4712882688341730434
+      pump_32: -2332656591329543647
+      pump_33: 3520001604514898821
+      pump_34: 4453393297361441648
+      pump_35: 4606371170150299172
+      pump_36: -7483841279548882069
+      pump_37: -1417783264465570019
+      pump_38: 1617541703164852859
+      pump_39: 432550843898342261
+      pump_4: -8623857156127769596
+      pump_40: -2061170283228219386
+      pump_41: -3029568634399928435
+      pump_42: 4619405051789170573
+      pump_43: -1352542006696161298
+      pump_44: -7367941749896872485
+      pump_45: 933034053930972813
+      pump_46: 7185660202490166082
+      pump_47: 9026930628539063961
+      pump_48: -5489628511610430887
+      pump_5: 5133359766145362846
+      pump_6: 4087668993525966513
+      pump_7: 9042792535848973977
+      pump_8: 9109674558028928466
+      pump_9: 7333687582615748159
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
