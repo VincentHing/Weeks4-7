@@ -586,6 +586,7 @@ MonoBehaviour:
   spawnedBloon: {fileID: 0}
   bloonScript: {fileID: 0}
   bloons: []
+  slidey: {fileID: 779460049}
 --- !u!1 &779460047
 GameObject:
   m_ObjectHideFlags: 0

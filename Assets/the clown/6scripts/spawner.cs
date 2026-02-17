@@ -15,7 +15,7 @@ public class spawner : MonoBehaviour
     //list of the bloons we have
     public List <GameObject> bloons;
 
-   // public Slider slidey;
+    public Slider slidey;
     
     
    
@@ -31,7 +31,7 @@ public class spawner : MonoBehaviour
     void Update()
     {
 
-        if (Mouse.current.leftButton.wasPressedThisFrame)
+        if (Mouse.current.rightButton.wasPressedThisFrame)
         {
             if (bloons.Count > 0)
             {
@@ -45,9 +45,12 @@ public class spawner : MonoBehaviour
 
             bloons.Add(spawnedBloon); 
         }
-        ////changes the size of the attatched baloon
-        //bloons[bloons.Count - 1].GetComponent<balloonM>().transform.localScale *= slidey.value;
-
+        if (bloons.Count > 0)
+        {
+            //changes the size of the attatched baloon
+            // (Vector2.one/5) is there because i resized the original image of the baloon so the starting scale is ~0.223 
+            bloons[bloons.Count - 1].GetComponent<balloonM>().transform.localScale = (Vector2.one/5) * slidey.value;
+        }
 
         for (int i = bloons.Count - 1; i >= 0; i--)
         {
