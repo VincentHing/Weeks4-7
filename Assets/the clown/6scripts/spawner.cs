@@ -16,6 +16,7 @@ public class spawner : MonoBehaviour
     public List <GameObject> bloons;
 
     public Slider slidey;
+
     
     
    
@@ -30,21 +31,21 @@ public class spawner : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
         if (Mouse.current.rightButton.wasPressedThisFrame)
         {
             if (bloons.Count > 0)
             {
                 //lets the previously immobile bloon move free
-                bloons[bloons.Count - 1].GetComponent< balloonM > ().bloonAttached = false;
+                bloons[bloons.Count - 1].GetComponent<balloonM>().bloonAttached = false;
             }
 
-        spawnedBloon = Instantiate(bloonPrefab);
+            spawnedBloon = Instantiate(bloonPrefab);
 
             bloonScript = GetComponent<balloonM>();
 
-            bloons.Add(spawnedBloon); 
+            bloons.Add(spawnedBloon);
         }
+
         if (bloons.Count > 0)
         {
             //changes the size of the attatched baloon
@@ -65,6 +66,11 @@ public class spawner : MonoBehaviour
                 Destroy(bloon);
             }
         }
+    }
+    public void startOne()
+    {
+        
+
     }
     
 }
